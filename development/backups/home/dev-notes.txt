@@ -1,0 +1,5 @@
+Note from CISO
+-------------------------------------
+-Julius your development tools have have multiple serious vulnerabilies, our WAF protects them for now but you should fix this ASAP before someone finds a way to bypass it.
+
+-Yeah bro ok chill I will fix it
